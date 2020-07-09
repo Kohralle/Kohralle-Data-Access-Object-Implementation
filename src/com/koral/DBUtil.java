@@ -2,7 +2,7 @@ package com.koral;
 import java.sql.*;
 
 public class DBUtil {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/cinemas_ex2?useSSL=false&characterEncoding=utf8&serverTimezone=UTC";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/workshop2?useSSL=false&characterEncoding=utf8&serverTimezone=UTC";
     private static final String DB_USER = "root";
     private static final String DB_PASS = "coderslab";
 
